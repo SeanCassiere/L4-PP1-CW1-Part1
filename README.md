@@ -3,7 +3,7 @@ Student Marks with Histogram
 
 Project Status: Completed.
 
-# Group Members
+# File Descriptions
 + Part A - Horizontal Histogram
 + Part A + B - Horizontal Histogram with Statistics
 + Part A + B + C - Horizontal Histogram with Greater Statistics
